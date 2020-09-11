@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/texto1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HOLA LANDSCAPE">
+
+    </TextView>
+    <Button
+        android:background="@color/colorBotones"
+        android:id="@+id/btnLista1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/botonMain">
+    </Button>
+</LinearLayout>

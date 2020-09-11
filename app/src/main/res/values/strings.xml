@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Nombre APP</string>
+    <string name="botonMain">Bonjour</string>
+</resources>
